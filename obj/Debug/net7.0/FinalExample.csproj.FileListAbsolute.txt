@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гит\FinalExample\bin\Debug\net7.0\FinalExample.exe
+C:\Users\User\Desktop\Гит\FinalExample\bin\Debug\net7.0\FinalExample.deps.json
+C:\Users\User\Desktop\Гит\FinalExample\bin\Debug\net7.0\FinalExample.runtimeconfig.json
+C:\Users\User\Desktop\Гит\FinalExample\bin\Debug\net7.0\FinalExample.dll
+C:\Users\User\Desktop\Гит\FinalExample\bin\Debug\net7.0\FinalExample.pdb
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.AssemblyInfo.cs
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.dll
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\refint\FinalExample.dll
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.pdb
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\FinalExample.genruntimeconfig.cache
+C:\Users\User\Desktop\Гит\FinalExample\obj\Debug\net7.0\ref\FinalExample.dll
